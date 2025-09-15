@@ -1,4 +1,3 @@
 # README
-**Name:** Merick
-*Purpose:* 7(-_-)/ 
+**Name:** Merick 
 echo "Hello Human"
