@@ -1,3 +1,3 @@
 # README
 **Name:** Merick 
-echo "Hello Human"
+**Purpose:** Hello (-_0)/
